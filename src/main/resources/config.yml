@@ -1,0 +1,15 @@
+# ░█████╗░███╗░░██╗████████╗██╗██╗░░░██╗██████╗░███╗░░██╗
+# ██╔══██╗████╗░██║╚══██╔══╝██║██║░░░██║██╔══██╗████╗░██║
+# ███████║██╔██╗██║░░░██║░░░██║╚██╗░██╔╝██████╔╝██╔██╗██║
+# ██╔══██║██║╚████║░░░██║░░░██║░╚████╔╝░██╔═══╝░██║╚████║
+# ██║░░██║██║░╚███║░░░██║░░░██║░░╚██╔╝░░██║░░░░░██║░╚███║
+# ╚═╝░░╚═╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚═╝░░╚══╝
+
+# By MercifulDragon
+
+# https://proxycheck.io
+API_KEY: "Your API_KEY Here"
+
+# If false, the plugin will only notify players with the Antivpn.notify or Antivpn.* permission
+Kick Player: true
+Kick Message: "Please turn off your VPN/Proxy"

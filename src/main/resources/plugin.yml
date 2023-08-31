@@ -1,0 +1,8 @@
+name: AntiVPN
+version: '${project.version}'
+main: dev.merciful.antivpn.AntiVPN
+api-version: '1.20'
+authors: [Merciful]
+commands:
+  antivpn:
+    usage: /<command> subcommand name
